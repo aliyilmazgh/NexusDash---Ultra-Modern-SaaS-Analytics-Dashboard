@@ -43,3 +43,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/nexus-dash-pro.git
+
+### Developer
+Developed with love by Ali Riza Yilmaz
+Go: https://www.github.com/aliyilmazgh
